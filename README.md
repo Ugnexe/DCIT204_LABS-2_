@@ -2,6 +2,8 @@
 
 ## Objective
 
+> **This assignment is due on Wednesday 1:10pm**
+
 In this lab, you will build **interactive console applications** by implementing two fundamental array algorithms discussed in class:
 
 * **Find Maximum Value**
@@ -17,6 +19,7 @@ The goal is to strengthen your understanding of:
 * Brute-force searching
 * Time complexity
 * Writing clean, readable Java code
+
 
 ---
 
